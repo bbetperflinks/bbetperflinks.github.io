@@ -32,13 +32,6 @@ p1 {
 .content_items a:hover {
     color: #111111;
 }
-#noisy-canvas {
-    width: 100vw !important;
-    height: 100vh !important;
-    z-index: 0;
-    position: absolute;
-    opacity: 0.1;
-}
 body {
     width: 100%;
     height: fit-content;
